@@ -18,7 +18,7 @@ function App() {
 
   const ITEMS_PER_PAGE = 10
   const debouncedSearch = useDebounce(searchQuery, 500)
-  const API_URL = 'http://localhost:3001/products'
+  const API_URL = 'https://mocki.io/v1/116ff739-3e87-4c0a-8cab-f2dfdc5377c4'
 
   useEffect(() => {
     fetchProducts()
