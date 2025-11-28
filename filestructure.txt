@@ -1,0 +1,24 @@
+|-- README.md
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- vite.svg
+|-- src
+    |-- App.jsx
+    |-- assets
+        |-- react.svg
+    |-- components
+        |-- Pagination.jsx
+        |-- ProductCard.jsx
+        |-- ProductForm.jsx
+        |-- ProductList.jsx
+        |-- SearchBar.jsx
+    |-- data
+        |-- products.json
+    |-- hooks
+        |-- useDebounce.js
+    |-- index.css
+    |-- main.jsx
+|-- vite.config.js
